@@ -46,11 +46,10 @@ CNN_MINIST
 
 1. 📁data 为数据，其中 📁MNIST 为本次实验所使用的手写体数据集，可通过 torchvision 下载；
 2. 📁images 为自定义数据集，包含 0 ~ 9 的数字，用于模型预测；
-3. 📄CNN.ipynb 为主文件，📄demo.ipynb 是学习资料中提供的示例代码；
-4. 📄CNN模型图参考.jpg 为学习资料中提供的 CNN 模型结构示例；
-5. 📄accuracy.png 和 📄loss.png 为模型训练、测试的准确率与损失，📄result.png 为模型在自定义数据集上的预测结果；
-6. 📄best_model.pth 和 📄last_model.pth 分别为最佳模型参数、最终模型参数；
-7. 📄class_indices.json 是包含数据集类别的 json 文件；
-8. 📄output.txt 为模型训练时控制台的打印输出，包含训练损失、训练准确率、测试损失、测试准确率；
+3. 📄CNN.ipynb 为主文件；
+4. 📄accuracy.png 和 📄loss.png 为模型训练、测试的准确率与损失，📄result.png 为模型在自定义数据集上的预测结果；
+5. 📄best_model.pth 和 📄last_model.pth 分别为最佳模型参数、最终模型参数；
+6. 📄class_indices.json 是包含数据集类别的 json 文件；
+7. 📄output.txt 为模型训练时控制台的打印输出，包含训练损失、训练准确率、测试损失、测试准确率；
 
 
