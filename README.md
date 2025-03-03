@@ -31,8 +31,6 @@ CNN_MINIST
 ├─ 📄best_model.pth
 ├─ 📄class_indices.json
 ├─ 📄CNN.ipynb
-├─ 📄CNN模型图参考.jpg
-├─ 📄demo.ipynb
 ├─ 📄last_model.pth
 ├─ 📄loss.png
 ├─ 📄output.txt
